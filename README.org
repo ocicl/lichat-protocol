@@ -4,6 +4,6 @@ Protocol definition and specification for the Lichat chat system
 
 |---------+------------------------------------------------------|
 | source  | git:https://github.com/Shirakumo/lichat-protocol.git |
-| commit  | 46fda3c                                              |
+| commit  | 4863bc6                                              |
 | systems | lichat-protocol                                      |
 |---------+------------------------------------------------------|
