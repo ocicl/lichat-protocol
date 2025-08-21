@@ -2,8 +2,8 @@
 
 Protocol definition and specification for the Lichat chat system
 
-|---------+------------------------------------------------------|
+|---------+--------------------------------------------------------|
 | source  | git:https://codeberg.org/shirakumo/lichat-protocol.git |
-| commit  | 89f9756                                              |
-| systems | lichat-protocol                                      |
-|---------+------------------------------------------------------|
+| commit  | 4863bc6                                                |
+| systems | lichat-protocol                                        |
+|---------+--------------------------------------------------------|
