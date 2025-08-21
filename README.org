@@ -3,7 +3,7 @@
 Protocol definition and specification for the Lichat chat system
 
 |---------+------------------------------------------------------|
-| source  | git:https://github.com/Shirakumo/lichat-protocol.git |
+| source  | git:https://codeberg.org/shirakumo/lichat-protocol.git |
 | commit  | 89f9756                                              |
 | systems | lichat-protocol                                      |
 |---------+------------------------------------------------------|
