@@ -7,3 +7,4 @@ Protocol definition and specification for the Lichat chat system
 | commit  | b6f7d9e                                                |
 | systems | lichat-protocol                                        |
 |---------+--------------------------------------------------------|
+ 
